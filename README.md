@@ -1,0 +1,1 @@
+# akatsuki-switcher-script
